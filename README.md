@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-My name is [Your Name], and I'm a philosopher at heart with a deep passion for data and ethics. I believe that the intersection of these fields is where the magic happens, and I'm on a mission to explore this fascinating crossroads.
+My name is Aaron, and I'm a philosopher at heart with a deep passion for data and ethics. I believe that the intersection of these fields is where the magic happens, and I'm on a mission to explore this fascinating crossroads.
 
 ## 📚 Philosophy & Metaphysics
 
